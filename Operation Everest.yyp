@@ -1,0 +1,50 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Operation Everest",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.gmparticlepresets-1.0.0","name":"io.gamemaker.gmparticlepresets-1.0.0","path":"io.gamemaker.gmparticlepresets-1.0.0.yyp",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"Operation Everest",
+  "resources":[
+    {"id":{"name":"OgrapplePoint","path":"objects/OgrapplePoint/OgrapplePoint.yy",},},
+    {"id":{"name":"Ogun","path":"objects/Ogun/Ogun.yy",},},
+    {"id":{"name":"Oprojectile","path":"objects/Oprojectile/Oprojectile.yy",},},
+    {"id":{"name":"Owall","path":"objects/Owall/Owall.yy",},},
+    {"id":{"name":"player","path":"objects/player/player.yy",},},
+    {"id":{"name":"smoke","path":"particles/smoke/smoke.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"custfunct1","path":"scripts/custfunct1/custfunct1.yy",},},
+    {"id":{"name":"flash","path":"sprites/flash/flash.yy",},},
+    {"id":{"name":"MK23","path":"sprites/MK23/MK23.yy",},},
+    {"id":{"name":"playeridle1","path":"sprites/playeridle1/playeridle1.yy",},},
+    {"id":{"name":"playerrun","path":"sprites/playerrun/playerrun.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
